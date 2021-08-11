@@ -1,0 +1,13 @@
+ds
+.DS_Store
+*.project
+*.classpath
+*.DS_Store
+*.settings
+*.ipynb_checkpoints
+*Models_Saved
+*.bat
+moviedataset.zip
+ratings.csv
+tags.csv
+movies.csv
